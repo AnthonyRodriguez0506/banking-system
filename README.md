@@ -1,4 +1,4 @@
-# 🏦 Banking System CLI
+# 🏦 Banking System
 A simple command-line banking system written in Java.
 
 ## Features
